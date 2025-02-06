@@ -40,7 +40,7 @@ export const events: Event[] = [
     time: "Period 3 - Bossilicious",
     location: "Beside Portables Outside School",
     description: "After eating from the food trucks, stop by for a sweet treat. Grab a Timbit or 2 for a light snack to remind you of this eventful day. All proceeds from this bake sale went towards future entrepreneurship events.",
-    image: "https://api.vip.foodnetwork.ca/wp-content/uploads/2024/06/timbit-flavours.png?w=848",
+    image: "https://timhortons.co.uk/assets/img/products/6mAqJEffYEzyjLrpjDmQCetSzhJKQhaDB1mojGcg.jpg",
     category: "Bake Sales",
     status: "past"
   }
